@@ -22,4 +22,4 @@ script:
   $AOS_UPLOAD_SERVICE_URL
 dd:
 - openssl aes-256-cbc -K $encrypted_5456e82ea340_key -iv $encrypted_5456e82ea340_iv
-  -in meta_folder/private_key.pem.enc -out meta_folder/private_key.pem.enc  -d
+  -in meta_folder/private_key.pem.enc -out meta_folder/private_key.pem  -d
