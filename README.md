@@ -1,2 +1,2 @@
 # hello-world
-AOS Python Sample Service
+AOS Python Sample Service, updated
